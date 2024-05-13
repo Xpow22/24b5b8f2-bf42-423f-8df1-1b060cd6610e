@@ -10,14 +10,18 @@
   },
   "dependencies": {
     "antd": "^5.17.0",
+    "iconify-icon": "^2.0.0-beta.1",
     "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-highlight-words": "^0.20.0"
   },
   "devDependencies": {
+    "@iconify/react": "^5.0.0-beta.2",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/react-highlight-words": "^0.16.7",
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
     "postcss": "^8",
